@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Muhammad Talha
 
-<!--
-**infosectalha/infosectalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring Cybersecurity Professional | InfoSec Enthusiast  
+💻 Hands-on with Vulnerability Scanning, Lab Environments & Penetration Testing Basics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Tools
+- 🔍 Vulnerability Scanning (Nessus)
+- 📡 Port Scanning (Nmap, Netcat, etc.)
+- 🧪 Lab Setup using VMware with Kali Linux, Windows, and Metasploitable
+
+---
+
+## ⚙️ Technologies I Use
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-blue?style=flat-square&logo=kalilinux)
+![VMware](https://img.shields.io/badge/-VMware-orange?style=flat-square&logo=vmware)
+![Nessus](https://img.shields.io/badge/-Nessus-informational?style=flat-square&logo=tenable)
+![Nmap](https://img.shields.io/badge/-Nmap-red?style=flat-square&logo=nmap)
+
+---
+
+## 📈 GitHub Stats
+![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=infosectalha&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: talhachadda9@gmail.com
+- 🌐 LinkedIn: https://linkedin.com/in/muhammad-talha-cybersecurity
