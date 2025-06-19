@@ -27,5 +27,5 @@
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: talhachadda9@gmail.com
+- 📧 Email: infosectalha@gmail.com
 - 🌐 LinkedIn: https://linkedin.com/in/muhammad-talha-cybersecurity
