@@ -1,3 +1,48 @@
+# 🛡️ DVWA Vulnerability Assessment – Internal Lab Project
+
+This project demonstrates a hands-on vulnerability assessment conducted on **Damn Vulnerable Web Application (DVWA)** in a controlled internal lab using Kali Linux and industry-standard tools.
+
+## 🎯 Objective
+
+The purpose of this assessment was to:
+- Identify common web vulnerabilities
+- Practice manual exploitation in a safe lab environment
+- Document findings with risk ratings and remediation guidance
+
+---
+
+## 🧪 Tools Used
+
+- ✅ Kali Linux (in VMware)
+- ✅ Burp Suite Community Edition
+- ✅ WhatWeb
+- ✅ Gobuster
+- ✅ Nikto
+- ✅ Firefox Developer Tools
+- ✅ Flameshot (screenshots)
+
+---
+
+## 🕵️ Vulnerabilities Tested
+
+- 🔍 **SQL Injection (GET method)**
+- 🔍 **Reflected Cross-Site Scripting (XSS)**
+- 🔍 **Insecure File Upload**
+- 🔍 **Exposed Directories & Configuration Files**
+- 🔍 **Missing Security Headers**
+
+---
+
+## 📄 Final Report
+
+📎 [Download the Full DVWA Vulnerability Assessment Report (DOCX)]https://drive.google.com/file/d/1hGXpsuhVaKULn4jYciw7JSZLuykctQRW/view?usp=sharing
+> Includes screenshots, payloads used, severity levels, and professional remediation steps.
+
+> ## 📌 Note
+
+> This project was performed in a **legal, offline lab environment** using DVWA intentionally built with security flaws.  
+> Do not attempt to scan or exploit real-world targets without proper authorization.
+
 # 👋 Hi, I’m Muhammad Talha
 
 🔐 Aspiring Cybersecurity Professional | InfoSec Enthusiast  
