@@ -28,4 +28,4 @@
 
 ## 📫 Let's Connect
 - 📧 Email: infosectalha@gmail.com
-- 🌐 LinkedIn: https://linkedin.com/in/muhammad-talha-cybersecurity
+- 🌐 LinkedIn: https://linkedin.com/in/infosectalha
